@@ -36,7 +36,6 @@
 - [Configuration](#-configuration)
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -669,13 +668,6 @@ Contributions are welcome! Here is how to get started:
 - [ ] Add topic-specific metadata detection in `build_metadata()`
 - [ ] Implement incremental crawling (only re-crawl changed pages)
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
